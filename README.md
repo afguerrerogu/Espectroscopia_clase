@@ -11,9 +11,9 @@ archivos .fits
 
 
 
-**MOSTRAR EN DS9
+**MOSTRAR EN DS9**
 
-> implot 1H19340001.fits\\
-plot line N [average of lines N to M]\\
-> :l 314 328 \\
+> implot 1H19340001.fits \n
+plot line N [average of lines N to M] \n
+> :l 314 328 \n
 
